@@ -1,6 +1,3 @@
-
-![Cybersecurity Student](https://media.licdn.com/dms/image/D5616AQFJQZNMBpsM2g/profile-displaybackgroundimage-shrink_350_1400/0/1722927450837?e=1728518400&v=beta&t=V8MTwKYCUKi8pGQt7-i-m6E8CACftQi692Mdm_yLFtQ)
-
 # 👨🏻‍💻 Thanh Sang
 
 ```Cybersecurity Enthusiastic (Pentester, Developer)```
