@@ -1,5 +1,7 @@
-# Thanh Sang
+
 ![Cybersecurity Student](https://media.licdn.com/dms/image/D5616AQFJQZNMBpsM2g/profile-displaybackgroundimage-shrink_350_1400/0/1722927450837?e=1728518400&v=beta&t=V8MTwKYCUKi8pGQt7-i-m6E8CACftQi692Mdm_yLFtQ)
+
+# Thanh Sang
 
 I'm Sang from Vietnam, I’m a self-taught cybersecurity enthusiast focused on scripting with Python and Bash to streamline tasks. Skilled in JavaScript, CSS, HTML, and tools like Burp Suite, I enjoy contributing to projects, solving problems, and helping others in the cybersecurity community.
 
